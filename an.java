@@ -1,6 +1,7 @@
-public class Hello
-	public static void main(String args[])
-{
-System.print.out("hello from jenkins")
+public class Hello {
+	public static void main(String [] args){
+		System.out.println("Hello people, I am Shivu");
+	}
 }
+
 
